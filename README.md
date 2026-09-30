@@ -16,6 +16,7 @@ Sans connexion au moment de l'installation : prendre l'installateur complet dans
 - Plusieurs morceaux et plusieurs formats en une seule fois
 - Meilleur passage trouvé automatiquement pour les extraits, volume normalisé à −14 LUFS
 - Miniature YouTube, conseils et version carrée pour la pochette
+- Pochette trop petite ? Agrandissement en 3000 × 3000 par IA, directement sur votre carte graphique
 - Mises à jour proposées automatiquement dans le logiciel
 
 ## Configuration
@@ -29,7 +30,7 @@ En cas de souci : menu Démarrer → **Diagnostic PeetMaster**, puis envoyer le 
 
 ## Sécurité
 
-Le paquet téléchargé par l'installateur est signé ; l'installateur refuse tout fichier modifié.
+Les paquets téléchargés par l'installateur sont signés ; l'installateur refuse tout fichier modifié.
 
 ---
 
