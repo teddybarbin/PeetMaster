@@ -1,0 +1,30 @@
+PeetMaster : composants tiers et licences
+=========================================
+
+PeetMaster est édité par KarukeraLabs. Il s'appuie sur les logiciels libres suivants, redistribués
+sans modification, chacun sous sa propre licence.
+
+FFmpeg 9.0.2 (build « essentials » de gyan.dev) : ffmpeg.exe
+  Licence : GNU GPL version 3 (build configuré avec --enable-gpl --enable-version3).
+  PeetMaster appelle ffmpeg.exe comme programme séparé ; il n'est pas lié à PeetMaster.
+  Code source de FFmpeg : https://ffmpeg.org/releases/ffmpeg-9.0.2.tar.xz
+  (une copie est jointe à chaque version publiée : https://github.com/teddybarbin/PeetMaster/releases)
+  Configuration et sources des bibliothèques du build : https://www.gyan.dev/ffmpeg/builds/
+  Texte de la licence : https://www.gnu.org/licenses/gpl-3.0.html
+
+Mesa 3D 26.2.3 (build pal1000/mesa-dist-win) : mesa\opengl32.dll, mesa\libgallium_wgl.dll
+  Licence : MIT. Utilisé uniquement quand la carte graphique ne peut pas afficher l'animation.
+  Sources : https://gitlab.freedesktop.org/mesa/mesa  ·  https://github.com/pal1000/mesa-dist-win
+
+Qt 6 / PySide6 6.11 : bibliothèques Qt6*.dll et module PySide6
+  Licence : GNU LGPL version 3. Liaison dynamique : les DLL Qt peuvent être remplacées par
+  l'utilisateur. Sources : https://download.qt.io/official_releases/  ·  https://code.qt.io/
+
+Python 3.12 : licence PSF (https://docs.python.org/3/license.html)
+NumPy : licence BSD, avec OpenBLAS (BSD)
+Pillow : licence MIT-CMU (HPND)
+ModernGL et glcontext : licence MIT
+PyInstaller (chargeur) : GPL avec exception de redistribution
+
+Polices (SIL Open Font License 1.1, https://openfontlicense.org) :
+  Cormorant Infant (Christian Thalmann), Montserrat (Julieta Ulanovsky), Inter (Rasmus Andersson)
