@@ -13,6 +13,7 @@ Sans connexion au moment de l'installation : prendre l'installateur complet dans
 
 - Glissez vos morceaux et votre pochette, réglez titre, artiste et couleurs
 - Vidéo animée au rythme de la musique : 16:9 (YouTube), carré (Instagram), vertical (Reels, TikTok)
+- Deux thèmes : « Le concert » (la pochette en affiche, des projecteurs qui suivent la voix) et « Scène »
 - Plusieurs morceaux et plusieurs formats en une seule fois
 - Meilleur passage trouvé automatiquement pour les extraits, volume normalisé à −14 LUFS
 - Miniature YouTube, conseils et version carrée pour la pochette
